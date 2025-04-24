@@ -74,9 +74,9 @@ ninja.data = [{
               },
             },{id: "post-acee-39-s-photography-on-portrait-and-street",
         
-          title: "Acee&#39;s Photography on Portrait and Street",
+          title: "Acee&#39;s photography on Portrait and Street",
         
-        description: "",
+        description: "Acee uses CanonM50m2 and SonyA7CR",
         section: "Posts",
         handler: () => {
           
@@ -85,9 +85,9 @@ ninja.data = [{
         },
       },{id: "post-acee-39-s-photography-on-landscape",
         
-          title: "Acee&#39;s Photography on Landscape",
+          title: "Acee&#39;s photography on Landscape",
         
-        description: "",
+        description: "Acee uses CanonM50m2 and SonyA7CR",
         section: "Posts",
         handler: () => {
           
@@ -96,9 +96,9 @@ ninja.data = [{
         },
       },{id: "post-acee-39-s-photography-on-intimate-landscape",
         
-          title: "Acee&#39;s Photography on Intimate Landscape",
+          title: "Acee&#39;s photography on Intimate Landscape",
         
-        description: "",
+        description: "Acee uses CanonM50m2 and SonyA7CR",
         section: "Posts",
         handler: () => {
           
@@ -107,9 +107,9 @@ ninja.data = [{
         },
       },{id: "post-acee-39-s-photography-on-architecture",
         
-          title: "Acee&#39;s Photography on Architecture",
+          title: "Acee&#39;s photography on Architecture",
         
-        description: "",
+        description: "Acee uses CanonM50m2 and SonyA7CR",
         section: "Posts",
         handler: () => {
           
