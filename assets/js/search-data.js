@@ -72,44 +72,44 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-image-galleries",
+            },{id: "post-acee-39-s-photography-on-portrait-and-street",
         
-          title: "a post with image galleries",
+          title: "Acee&#39;s Photography on Portrait and Street",
         
-        description: "this is what included image galleries could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/acee-photography-portrait-and-street/";
           
         },
-      },{id: "post-a-post-with-image-galleries",
+      },{id: "post-acee-39-s-photography-on-landscape",
         
-          title: "a post with image galleries",
+          title: "Acee&#39;s Photography on Landscape",
         
-        description: "this is what included image galleries could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/acee-photography-landscape/";
           
         },
-      },{id: "post-a-post-with-image-galleries",
+      },{id: "post-acee-39-s-photography-on-intimate-landscape",
         
-          title: "a post with image galleries",
+          title: "Acee&#39;s Photography on Intimate Landscape",
         
-        description: "this is what included image galleries could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/acee-photography-intimate-landscape/";
           
         },
-      },{id: "post-a-post-with-image-galleries",
+      },{id: "post-acee-39-s-photography-on-architecture",
         
-          title: "a post with image galleries",
+          title: "Acee&#39;s Photography on Architecture",
         
-        description: "this is what included image galleries could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
