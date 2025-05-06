@@ -72,7 +72,51 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-acee-39-s-photography-on-portrait-and-street",
+            },{id: "post-national-parks",
+        
+          title: "National Parks",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/national-parks/";
+          
+        },
+      },{id: "post-books",
+        
+          title: "Books",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/books/";
+          
+        },
+      },{id: "post-movies-and-series",
+        
+          title: "Movies And Series",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/movies-and-series/";
+          
+        },
+      },{id: "post-thoughts",
+        
+          title: "Thoughts",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/thoughts/";
+          
+        },
+      },{id: "post-acee-39-s-photography-on-portrait-and-street",
         
           title: "Acee&#39;s photography on Portrait and Street",
         
