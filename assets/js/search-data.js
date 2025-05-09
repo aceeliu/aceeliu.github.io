@@ -72,11 +72,22 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-papers-on-database-management-systems",
+            },{id: "post-terms-in-tech-industry",
+        
+          title: "Terms in Tech Industry",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/tech-terms/";
+          
+        },
+      },{id: "post-papers-on-database-management-systems",
         
           title: "Papers on Database Management Systems",
         
-        description: "spark system paper dependencies - technical evolution dependencies between GFS, MapReduce, DryadLINQ, CIEL, and Spark RDD",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -91,23 +102,12 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/books-streaming-thoughts/";
-          
-        },
-      },{id: "post-national-parks",
-        
-          title: "National Parks",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/national-parks/";
+            window.location.href = "/blog/2025/books-streaming-terms-thoughts/";
           
         },
       },{id: "post-acee-39-s-photography",
         
-          title: "Acee&#39;s photography",
+          title: "Acee&#39;s Photography",
         
         description: "I use CanonM50m2 and SonyA7CR to capture architecture, intimate_landscape, landscape, portrait and street",
         section: "Posts",
