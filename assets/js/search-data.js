@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-national-parks",
+            },{id: "post-spark-system-paper-dependencies",
+        
+          title: "spark system paper dependencies",
+        
+        description: "technical evolution dependencies between GFS, MapReduce, DryadLINQ, CIEL, and Spark RDD",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/papers-to-read/";
+          
+        },
+      },{id: "post-national-parks",
         
           title: "National Parks",
         
