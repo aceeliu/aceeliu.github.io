@@ -94,81 +94,26 @@ ninja.data = [{
             window.location.href = "/blog/2025/national-parks/";
           
         },
-      },{id: "post-books",
+      },{id: "post-books-streaming-thoughts",
         
-          title: "Books",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/books/";
-          
-        },
-      },{id: "post-movies-and-series",
-        
-          title: "Movies And Series",
+          title: "Books Streaming Thoughts",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/movies-and-series/";
+            window.location.href = "/blog/2025/books-streaming-thoughts/";
           
         },
-      },{id: "post-thoughts",
+      },{id: "post-acee-39-s-photography",
         
-          title: "Thoughts",
+          title: "Acee&#39;s photography",
         
-        description: "",
+        description: "I use CanonM50m2 and SonyA7CR to capture architecture, intimate_landscape, landscape, portrait and street",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/thoughts/";
-          
-        },
-      },{id: "post-acee-39-s-photography-on-portrait-and-street",
-        
-          title: "Acee&#39;s photography on Portrait and Street",
-        
-        description: "Acee uses CanonM50m2 and SonyA7CR",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/acee-photography-portrait-and-street/";
-          
-        },
-      },{id: "post-acee-39-s-photography-on-landscape",
-        
-          title: "Acee&#39;s photography on Landscape",
-        
-        description: "Acee uses CanonM50m2 and SonyA7CR",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/acee-photography-landscape/";
-          
-        },
-      },{id: "post-acee-39-s-photography-on-intimate-landscape",
-        
-          title: "Acee&#39;s photography on Intimate Landscape",
-        
-        description: "Acee uses CanonM50m2 and SonyA7CR",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/acee-photography-intimate-landscape/";
-          
-        },
-      },{id: "post-acee-39-s-photography-on-architecture",
-        
-          title: "Acee&#39;s photography on Architecture",
-        
-        description: "Acee uses CanonM50m2 and SonyA7CR",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/acee-photography-architecture/";
+            window.location.href = "/blog/2025/acee-photography/";
           
         },
       },{id: "post-a-post-with-plotly-js",
