@@ -72,15 +72,26 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-spark-system-paper-dependencies",
+            },{id: "post-papers-on-database-management-systems",
         
-          title: "spark system paper dependencies",
+          title: "Papers on Database Management Systems",
         
-        description: "technical evolution dependencies between GFS, MapReduce, DryadLINQ, CIEL, and Spark RDD",
+        description: "spark system paper dependencies - technical evolution dependencies between GFS, MapReduce, DryadLINQ, CIEL, and Spark RDD",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/papers-to-read/";
+          
+        },
+      },{id: "post-books-streaming-and-thoughts",
+        
+          title: "Books, Streaming, and Thoughts",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/books-streaming-thoughts/";
           
         },
       },{id: "post-national-parks",
@@ -92,17 +103,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/national-parks/";
-          
-        },
-      },{id: "post-books-streaming-thoughts",
-        
-          title: "Books Streaming Thoughts",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/books-streaming-thoughts/";
           
         },
       },{id: "post-acee-39-s-photography",
