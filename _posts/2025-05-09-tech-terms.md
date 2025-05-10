@@ -22,7 +22,7 @@ Tech-related terms that I learned as a (new grad) software engineer:
    A cloud-based model for delivering software applications over the internet. Subscription-based and on-demand.
 
 4. **CRUD**  
-   Acronym for Create, Read, Update, Delete—basic operations for persistent storage.
+   Create, Read, Update, Delete—basic operations for persistent storage.
 
 5. **OTS (Off-the-Shelf)**  
    Commercially available hardware or software, ready for immediate use.
@@ -48,7 +48,7 @@ Tech-related terms that I learned as a (new grad) software engineer:
 12. **Remote Desktop Protocol (RDP)**  
     Microsoft protocol allowing remote control of another computer over a network.
 
-13. **Data Clean Room**
+13. **Data Clean Room**  
     a. Secure, privacy-centric environment for data collaboration  
     b. Used in marketing, analytics, and secure data sharing  
     c. Features: data encryption, anonymization, access control  
