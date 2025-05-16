@@ -80,5 +80,9 @@ Tech-related terms that I learned as a (new grad) software engineer:
 21. **CIM (Confidential Information Memorandum)**  
     Document used in M&A to present a company to potential buyers or investors.
 
-22. **CIM (Central Invoice Management)**
+22. **CIM (Central Invoice Management)**  
     A unified, centralized approach to receiving, processing, and managing supplier invoices across an organization, typically using a digital platform.
+
+23. **NUMA (Non-Uniform Memory Access)**  
+a. Each processor (or group of processors) has its own local memory  
+b. Access to local memory is faster than access to remote memory

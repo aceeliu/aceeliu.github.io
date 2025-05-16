@@ -12,7 +12,8 @@ related_publications: true
 
 Books In Progress:
 
-1. Competing against luck - "Compete against luck while others count on it."
+1. Competing against luck - "Compete against luck while others count on it."  
+2. Ahead in the Cloud  
 
 Books Read:
 numerous to list, will come back later.
@@ -20,14 +21,22 @@ numerous to list, will come back later.
 ---
 
 Series Now Watching:
+1. Dark Matter  
 
-1. Severance
 
 Series Watched:
-check later
+1. Severance S1 and S2  
+2. check later  
 
 Movies Watched:
 check later
+
+---
+
+Actionable Items:
+
+1. MLSys Course  
+2. Get into a basic Rust project  
 
 ---
 
