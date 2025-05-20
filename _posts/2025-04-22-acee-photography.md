@@ -21,7 +21,7 @@ gallery_architecture:
   - SatherTower_CanonM50m2.jpg
 
 gallery_intimate_landscape:
-  - EdR.LevinCountyPark_SonyA7CR_2025May4.jpg
+  - EdRLevinCountyPark_SonyA7CR_2025May4.jpg
   - Filoli1_SonyA7CR.jpg
   - Filoli2_SonyA7CR.jpg
   - GreatSmokyMountains1_CanonM50m2.jpg
@@ -29,7 +29,7 @@ gallery_intimate_landscape:
   - GreatSmokyMountains3_CanonM50m2.jpg
   - LakeErie_CanonM50m2.jpg
   - Miami_CanonM50m2.jpg
-  - Pittsburgh1_CanonM50m2_2025May12.jpg
+  - Pittsburgh1_CanonM50m2_2025May10.jpg
   - Pittsburgh2_CanonM50m2_2025May12.jpg
   - Salt-Pond_Sunnyvale_SonyA7CR.jpg
   - SanFrancisco_CanonM50m2.jpg
@@ -39,8 +39,8 @@ gallery_intimate_landscape:
 
 gallery_landscape:
   - DelValle_CanonM50m2.jpg
-  - EdR.LevinCountyPark1_SonyA7CR_2025May4.jpg
-  - EdR.LevinCountyPark2_SonyA7CR_2025May4.jpg
+  - EdRLevinCountyPark1_SonyA7CR_2025May4.jpg
+  - EdRLevinCountyPark2_SonyA7CR_2025May4.jpg
   - NiagaraFalls1_CanonM50m2.jpg
   - NiagaraFalls2_CanonM50m2.jpg
   - PuertoRico_Iphone12.jpg
@@ -51,7 +51,7 @@ gallery_landscape:
   - Yosemite4_CanonM50m2.jpg
 
 gallery_portrait:
-  - EdR.LevinCountyPark_FujiX100V_2025May4.jpg
+  - EdRLevinCountyPark_FujiX100V_2025May4.jpg
   - Filoli_SonyA7CR.jpg
   - Pittsburgh_CanonM50m2.jpg
   - Yosemite_CanonM50m2.jpg
@@ -162,7 +162,7 @@ The images in this post are all zoomable, arranged into different mini-galleries
 
 ## Macro
 
-{% for img in page.macro %}
+{% for img in page.gallery_macro %}
 
 <div style="display: inline-block; text-align: center; margin: 10px;">
   <a href="/assets/img/acee_macro/{{ img }}" data-lightbox="roadtrip" title="{{ img | split: '.' | first }}">
@@ -176,7 +176,7 @@ The images in this post are all zoomable, arranged into different mini-galleries
 
 ## Museum
 
-{% for img in page.macro %}
+{% for img in page.gallery_museum %}
 
 <div style="display: inline-block; text-align: center; margin: 10px;">
   <a href="/assets/img/acee_museum/{{ img }}" data-lightbox="roadtrip" title="{{ img | split: '.' | first }}">
