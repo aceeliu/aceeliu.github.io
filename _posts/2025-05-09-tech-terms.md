@@ -52,7 +52,7 @@ Tech-related terms that I learned as a (new grad) software engineer:
     a. Secure, privacy-centric environment for data collaboration  
     b. Used in marketing, analytics, and secure data sharing  
     c. Features: data encryption, anonymization, access control  
-    d. Enables analysis without exposing raw data
+    d. Enables analysis without exposing raw data  
 
 14. **General Data Protection Regulation (GDPR)**  
     EU law for data privacy and protection across EU and EEA.
@@ -74,7 +74,7 @@ Tech-related terms that I learned as a (new grad) software engineer:
 19. **DBT (data build tool)**  
     Transforms raw data in a warehouse into clean, analysis-ready datasets.
 
-20. **ERP (Enterprise Resource Planning)**  
+20. **ERP (Enterprise Resource Planning)**
     Integrates core business processes into one system (finance, HR, supply chain, etc.).
 
 21. **CIM (Confidential Information Memorandum)**  
@@ -86,3 +86,36 @@ Tech-related terms that I learned as a (new grad) software engineer:
 23. **NUMA (Non-Uniform Memory Access)**  
     a. Each processor (or group of processors) has its own local memory  
     b. Access to local memory is faster than access to remote memory
+
+24. **Prometheus**  
+    a. an open-source monitoring and alerting system designed for reliability and scalability, especially in dynamic cloud-native environments like Kubernetes  
+    b. Time-series database: Stores metrics as time-series data (value + timestamp)  
+    c. Pull-based model: Scrapes metrics from targets (e.g., apps, services) via HTTP  
+    d. PromQL: Powerful query language for analysis and alerting  
+    e. Service discovery: Automatically finds targets via Kubernetes, Consul, etc.  
+    f. Alertmanager: Sends alerts via email, Slack, PagerDuty, etc.
+
+25. **PromQL(Prometheus Query Language)**  
+    a. used to query time-series data stored in Prometheus  
+    b. retrieve raw or aggregated metrics; define alerts; build dashbords (e.g. in Grafana)  
+    c. Metrics | Labels | Time ranges
+
+26. **Grafana**  
+    an open-source data visualization and dashboarding tool commonly used with time-series databases like Prometheus, InfluxDB, and Loki
+
+27. **OLTP, OLAP, Offline Database**
+    - OLTP (Online Transaction Processing)
+      - Use: Real-time, frequent read/write (e.g., banking, e-commerce)
+      - Data: Highly normalized (split into multiple tables to avoid redundancy), up-to-date
+      - Operations: INSERT, UPDATE, DELETE
+      - Example: MySQL, PostgreSQL
+    - OLAP (Online Analytical Processing)
+      - Use: Complex queries, analytics, reports
+      - Data: Historical, denormalized (data combined in one table)
+      - Operations: SELECT with aggregations, GROUP BY
+      - Example: Snowflake, BigQuery, Apache Druid
+    - Offline Database
+      - Use: Batch processing, not time-sensitive
+      - Data: Often ingested from OLTP and stored for OLAP or ML
+      - Operations: ETL jobs, large-scale joins/aggregations
+      - Example: Hadoop HDFS, S3 + Presto
