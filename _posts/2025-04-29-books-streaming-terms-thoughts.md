@@ -20,6 +20,20 @@ numerous to list, will come back later.
 
 ---
 
+Podcasts:
+1. Acquired
+2. All-In
+3. Freakonomics Radio
+4. Bold Names
+5. After Hours
+6. 小Lin说
+7. 天真不天真
+8. 李诞
+9. 无处不在
+10. 全嘻嘻
+
+---
+
 Series Now Watching:
 
 1. Dark Matter
@@ -27,12 +41,13 @@ Series Now Watching:
 Series Watched:
 
 1. Severance S1 and S2
-2. check later
+2. White Lotus S1, S2, and S3
+3. check later
+
+---
 
 Movies Watched:
 check later
-
----
 
 Actionable Items:
 
@@ -47,6 +62,7 @@ There are only 2 ways to succeed for a non-PhD like me:
 2. Join a Startup as a founding engineer
 
 "Play to your strengths and become someone they can't replace."
+
 "Leverage your core strengths and make yourself indispensable."
 
 Always do the hard and right things, important and not urgent things.
