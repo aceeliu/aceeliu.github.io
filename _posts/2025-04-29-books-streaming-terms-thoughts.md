@@ -21,20 +21,22 @@ numerous to list, will come back later.
 ---
 
 Podcasts:
+
 1. Acquired
 2. All-In
 3. Freakonomics Radio
 4. Bold Names
 5. After Hours
-6. 小Lin说
+
+<!-- 6. 小Lin说
 7. 天真不天真
 8. 李诞
 9. 无处不在
-10. 全嘻嘻
+10. 全嘻嘻 -->
 
 ---
 
-Series Now Watching:
+<!-- Series Now Watching:
 
 1. Dark Matter
 
@@ -42,23 +44,23 @@ Series Watched:
 
 1. Severance S1 and S2
 2. White Lotus S1, S2, and S3
-3. check later
+3. check later -->
 
 ---
 
-Movies Watched:
-check later
+<!-- Movies Watched:
+check later -->
 
 ---
 
-Actionable Items:
+<!-- Actionable Items:
 
 1. MLSys Course
-2. Get into a basic Rust project
+2. Get into a basic Rust project -->
 
 ---
 
-There are only 2 ways to succeed for a non-PhD like me:
+<!-- There are only 2 ways to succeed for a non-PhD like me:
 
 1. Climb up the Corporate ladder (probably need to get a MBA)
 2. Join a Startup as a founding engineer
@@ -68,3 +70,8 @@ There are only 2 ways to succeed for a non-PhD like me:
 "Leverage your core strengths and make yourself indispensable."
 
 Always do the hard and right things, important and not urgent things.
+
+I understand that there are many seemingly easy shortcuts in the growth path of so-called females,
+but they are fundamentally traps and pitfalls.
+In fact, there are a lot forces that try to drag you down especially if you follow the rules,
+albeit living by the patriarchy is the easiest and most effortless one for a person without the will to be set free. -->

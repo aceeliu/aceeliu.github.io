@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: <a href='https://csd.cmu.edu/academics/bachelors/overview/'>B.S. in CS @ CMU</a> · <a href='https://www.databricks.com/'>Databricks, Inc.</a> · Mountain View, CA · [first name and last name without space] at gmail dot com · “ My Heart is in the Work.”
+subtitle: <a href='https://csd.cmu.edu/academics/bachelors/overview/'>B.S. in CS @ CMU</a> · <a href='https://www.databricks.com/'>Databricks, Inc.</a> · Mountain View, CA · [first name and last name without space] at gmail dot com
 
 profile:
   align: right
@@ -27,9 +27,11 @@ latest_posts:
   limit: 4 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Acee, a software engineer at 🧱.
+Hi, I'm Acee, a software engineer at Databricks 🧱.
 
-Recently, I graduated from Carnegie Mellon University with a Bechelor's degree in computer science and a minor in computational finance.
+I graduated from Carnegie Mellon University with a Bechelor's degree in computer science and a minor in computational finance.
+
+My heart is in the work.
 
 <!-- Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

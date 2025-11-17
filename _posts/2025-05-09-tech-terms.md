@@ -52,7 +52,7 @@ Tech-related terms that I learned as a (new grad) software engineer:
     a. Secure, privacy-centric environment for data collaboration  
     b. Used in marketing, analytics, and secure data sharing  
     c. Features: data encryption, anonymization, access control  
-    d. Enables analysis without exposing raw data  
+    d. Enables analysis without exposing raw data
 
 14. **General Data Protection Regulation (GDPR)**  
     EU law for data privacy and protection across EU and EEA.
@@ -104,6 +104,7 @@ Tech-related terms that I learned as a (new grad) software engineer:
     an open-source data visualization and dashboarding tool commonly used with time-series databases like Prometheus, InfluxDB, and Loki
 
 27. **OLTP, OLAP, Offline Database**
+
     - OLTP (Online Transaction Processing)
       - Use: Real-time, frequent read/write (e.g., banking, e-commerce)
       - Data: Highly normalized (split into multiple tables to avoid redundancy), up-to-date
@@ -119,3 +120,66 @@ Tech-related terms that I learned as a (new grad) software engineer:
       - Data: Often ingested from OLTP and stored for OLAP or ML
       - Operations: ETL jobs, large-scale joins/aggregations
       - Example: Hadoop HDFS, S3 + Presto
+
+28. **PagerDuty**
+
+    - severity, priority, urgency
+    - event (something occurred)
+    - alert (event normalized, contains SEVERITY value - critical, error, warning, info, unknown - based on preset rules)
+    - incident (one or more alerts, high URGENCY or low URGENCY, and then notification and then assign PRIORITY - sev1 - sev5)
+    - 3 states of an incident
+      - triggered: no on-cal user has taken ownership of the incident yet
+      - acknowledged:
+      - resolved:
+
+29. **ELK**
+    ELK stands for Elasticsearch, Logstash, and Kibana. It refers to a stack of three open-source tools commonly used together for collecting, storing, searching, analyzing, and visualizing large volumes of data, especially logs and event data.
+
+    Elasticsearch is a distributed search and analytics engine that stores and indexes data, making it easy to search and analyze large datasets in real time.
+
+    Logstash is a data processing pipeline that ingests, transforms, and sends data from various sources to Elasticsearch (or other destinations).
+
+    Kibana is a visualization tool that provides an interface for exploring, visualizing, and analyzing data stored in Elasticsearch.
+
+    Together, the ELK stack is widely used for log management, infrastructure monitoring, security analytics, and business intelligence, giving organizations real-time insights into their systems and applications.
+
+30. **SKU (Stock Keeping Unit)**
+    Cloud providers borrowed the term because they sell products:
+    VM, storage plan, database tier
+
+31. **Pub/Sub**
+    Publish-Subscribe messaging pattern
+    Publisher sends messages to a topic
+    Subscribers listen to that topic and receive any messages published there
+    Common in event-driven architecture
+
+32. **Kubernetes (K8s)**
+    a container orchestration platform
+    operating system for a cluster of machines
+    Kubernetes Service: a stable network endpoint for accessing one or more pods
+
+33. **Rest & gRPC and Armeria & Jetty**
+    Rest and gRPC are API protocols
+    Jetty and Armeria are Java server frameworks that can host those APIs
+    Armeria is newer and designed to host both gRPC and REST together easily, while Jetty is more traditional for REST/HTTP.
+
+34. **SDK (Software Development Kit)**
+    a collection of tools, libraries, documentation, code samples, and utilities that a company or platform provides to help developers build applications that interact with their product or service
+
+35. **DNS (Domain Name System)**
+    e.g. translate google to 142.250.72.206
+
+36. **PITR (Point-In-Time Recovery)**
+    It’s a feature in databases (like PostgreSQL, MySQL, etc.) that lets you restore data to exactly a specific point in time, not just the last full backup.
+
+37. **Data Clean Room**
+    A data clean room is a secure, controlled environment where multiple organizations can collaborate and analyze data from different sources while maintaining strict privacy and security protections. These environments enable companies to share and analyze sensitive first-party data without exposing personally identifiable information (PII) or compromising data confidentiality.
+
+38. **SLA (Service Level Agreement)**
+    A formal contract or agreement between a service provider and a customer that defines the specific level of service, performance standards, and expectations to be delivered
+
+39. **OKR (Objectives and Key Results)**
+    A goal-setting framework used by companies to define measureable outcomes
+
+40. **Third Normal Form**
+    No non-prime attribute is functionally dependent on (that is, contains a fact about) any other non-prime attribute
