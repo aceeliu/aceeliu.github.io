@@ -109,7 +109,7 @@ ninja.data = [{
         
           title: "Acee&#39;s Photography",
         
-        description: "I use CanonM50m2 and SonyA7CR to capture architecture, intimate_landscape, landscape, portrait and street",
+        description: "I use Canon M50m2, Sony A7CR, and Fujifilm X100VI, to capture architecture, intimate_landscape, landscape, portrait and street",
         section: "Posts",
         handler: () => {
           
