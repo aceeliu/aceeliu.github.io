@@ -2,7 +2,7 @@
 layout: post
 title: Acee's Photography
 date: 2025-04-22 20:00:00
-description: I use CanonM50m2 and SonyA7CR to capture architecture, intimate_landscape, landscape, portrait and street
+description: I use Canon M50m2, Sony A7CR, and Fujifilm X100VI, to capture architecture, intimate_landscape, landscape, portrait and street
 tags: photography
 categories: sample-posts
 thumbnail: assets/img/intimate_landscape/Filoli1_SonyA7CR.jpg

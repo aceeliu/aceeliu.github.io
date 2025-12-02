@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Instagram",
+        "username": "mengpotato",
+        "url": "https://instagram.com/mengpotato"
       }
     ]
   },
@@ -26,11 +26,11 @@
     {
       "name": "Databricks, Inc.",
       "position": "Software Engineer",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "url": "https://www.databricks.com",
+      "startDate": "2025-02-03",
+      "endDate": "",
+      "summary": "Working on the Data Lineage team",
+      "highlights": ["Distributed Systems", "Database Systems"]
     },
     {}
   ],
@@ -43,7 +43,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "2021-08-22",
       "endDate": "2024-12-18",
-      "score": "Major 4.0/4.0 & Cumulative 3.96/4.0",
+      "score": "",
       "courses": [
         "Operating Systems",
         "Database Systems",
@@ -58,33 +58,6 @@
         "Real Analysis",
         "Continuous & Discrete Time Finance"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     }
   ],
   "skills": [
@@ -116,6 +89,11 @@
   ],
   "interests": [
     {
+      "name": "Surfing",
+      "icon": "fa-solid fa-tag",
+      "keywords": []
+    },
+    {
       "name": "Snowboarding",
       "icon": "fa-solid fa-tag",
       "keywords": ["Freestyle Snowboarding", "All Mountain Snowboarding"]
@@ -128,6 +106,21 @@
     {
       "name": "Ice Hockey",
       "icon": "fa-solid fa-tag",
+      "keywords": []
+    },
+    {
+      "name": "Motorcycle Racing",
+      "icon": "fa-solid fa-tag",
+      "keywords": []
+    },
+    {
+      "name": "Basketball",
+      "icon": "fa-solid fa-robot",
+      "keywords": []
+    },
+    {
+      "name": "Electric Guitar",
+      "icon": "fa-solid fa-music",
       "keywords": []
     }
   ],
@@ -146,6 +139,33 @@
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-location-dot"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Zur Elektrody/namik bewegter Körper",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-06-30",
+      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     }
   ]
 }
